@@ -6,7 +6,7 @@
   "description": "Payment Gateway, charges, subscriptions, invoices...",
   "namespace": "Corals\\Modules\\Payment\\Bank",
   "version": "2.0.1",
-  "folder": "Bank",
+  "folder": "payment-bank",
   "autoload": "psr-4",
   "icon": "fa fa-university",
   "require": {
